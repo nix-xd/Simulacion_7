@@ -1,2 +1,3 @@
 # Simulacion_7
-"Actualizaci¢n README stack03"
+se puso el feat/stack-02
+"Actalizacion Readme stack03"
