@@ -1,2 +1,1 @@
 # Simulacion_7
-"Actualizacion de README stack03"
